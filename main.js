@@ -19,7 +19,7 @@ const testimonialObjs = [{
     comment: 'The cleanliness and hygiene standards at this fitness center are exceptional.',
     city: 'Ballia',
     country: 'Uttar Pradesh, India',
-    imgsrc: 'images/person3',
+    imgsrc: 'images/person3.jpg',
     imgdescription: 'person3',
   },
   {
