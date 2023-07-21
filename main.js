@@ -7,7 +7,7 @@ const testimonialObjs = [{
     imgdescription: 'person1',
   },
   {
-    name: 'Vaibhav Soni',
+    name: 'Mr. Sen',
     comment: 'I absolutely love this fitness center.',
     city: 'Azamgarh',
     country: 'Uttar Pradesh, India',
@@ -19,7 +19,7 @@ const testimonialObjs = [{
     comment: 'The cleanliness and hygiene standards at this fitness center are exceptional.',
     city: 'Ballia',
     country: 'Uttar Pradesh, India',
-    imgsrc: 'images/person3.jpg',
+    imgsrc: 'images/person3',
     imgdescription: 'person3',
   },
   {
