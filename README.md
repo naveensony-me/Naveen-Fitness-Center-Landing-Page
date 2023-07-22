@@ -1,20 +1,23 @@
 
-# 🚗 LANDING_PAGE - Fitness Gym platform <a name="about-project"></a>
+# 🚗 LANDING_PAGE - Naveen Fitness Center platform <a name="about-project"></a>
 
-**LANDING_PAGE** is a collaborative project, it's about HTML/CSS and JS. Created without any framework.
+**LANDING_PAGE** is a Web Development  project, it's about HTML/CSS and JS. Created without any framework.
 
 ## 📸 Screenshots <a name="screenshot"></a>
 
-![fitness program](https://github.com/naveensony07/landing-page/assets/116912198/e1d7da80-3043-4d7b-87d6-5ebeb100f4a8)
+![Header](https://github.com/naveensony07/landing-page/assets/116912198/39a1f1ee-1aee-484b-a798-45d0fe1777b9)
 
 
-![Header](https://github.com/naveensony07/landing-page/assets/116912198/2607a601-68fa-4c28-93bc-147b700dd6eb)
+![fitness program](https://github.com/naveensony07/landing-page/assets/116912198/ad556b2f-2942-495f-b6d5-a120da867e19)
 
 
-![footer](https://github.com/naveensony07/landing-page/assets/116912198/b11d3af6-b3a8-4337-af1f-87eabb3a2202)
+![testomial](https://github.com/naveensony07/landing-page/assets/116912198/94f92c47-36cb-47a2-94b1-8b66ba2ad551)
 
 
-![testomial](https://github.com/naveensony07/landing-page/assets/116912198/4082fd70-ccd0-4bca-9959-31fa9ac75073)
+![footer](https://github.com/naveensony07/landing-page/assets/116912198/95d1ac95-896e-4fa5-834d-075d48c1775b)
+
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -36,14 +39,11 @@ Clone this repository to your desired foler.
 
 ### 👤 **Naveen Sony**
 
-- GitHub: [@naveensony07](https://github.com/naveensony07)
-- Twitter: [@Naveen Sony](https://twitter.com/naveensony07)
-- LinkedIn: [@Naveen Sony](https://www.linkedin.com/in/naveensony07/)
+- GitHub: [@Naveen Sony](https://github.com/naveensony07)
+- Twitter: [@Naveen Sony](https://twitter.com/naveensony_07)
+- LinkedIn: [@Naveen Sony](https://www.linkedin.com/in/naveen-sony-b31a07156/)
 
-## 🙏 Acknowledgements
 
-This app was designed based on an original design idea by [Naveen Sony]() on Behance.
-We would like to thank Murat Korkmaz for this inspiring design.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
