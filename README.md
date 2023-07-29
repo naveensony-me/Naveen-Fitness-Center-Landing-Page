@@ -1,4 +1,3 @@
-
 # 🚗 LANDING_PAGE - Naveen Fitness Center platform <a name="about-project"></a>
 
 **LANDING_PAGE** is a Web Development  project, it's about HTML/CSS and JS. Created without any framework.
