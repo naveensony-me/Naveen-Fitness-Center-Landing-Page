@@ -1,3 +1,4 @@
+
 const testimonialObjs = [{
     name: 'Sahil Kumar Verma',
     comment: 'Great classes and trainers. ',
@@ -97,9 +98,9 @@ const testimonialObjs = [{
         }
       });
       if (testimonials[2].style.display === 'none') {
-        showMoreBtn.innerHTML = 'More <img src="images/icons/down-arrow.svg" alt="down icon">';
+        showMoreBtn.innerHTML = 'More <img src="images/icons/down-arrow.svg" alt="no icon">';
       } else {
-        showMoreBtn.innerHTML = 'Less <img src="images/icons/up-arrow.svg" alt="down icon">';
+        showMoreBtn.innerHTML = 'Less <img src="images/icons/up-arrow.svg" alt="no icon">';
       }
     });
   }
