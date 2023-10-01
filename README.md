@@ -4,7 +4,8 @@
 
 ## 📸 Screenshots <a name="screenshot"></a>
 
-![Header](https://github.com/naveensony07/landing-page/assets/116912198/39a1f1ee-1aee-484b-a798-45d0fe1777b9)
+
+![header](https://github.com/naveensony07/CodeAlpha-Landing-Page/assets/116912198/9957e372-e7f2-485c-8c69-ef087e5b1ab9)
 
 
 ![fitness program](https://github.com/naveensony07/landing-page/assets/116912198/ad556b2f-2942-495f-b6d5-a120da867e19)
