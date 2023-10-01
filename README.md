@@ -13,7 +13,8 @@
 ![testomial](https://github.com/naveensony07/landing-page/assets/116912198/94f92c47-36cb-47a2-94b1-8b66ba2ad551)
 
 
-![footer](https://github.com/naveensony07/landing-page/assets/116912198/95d1ac95-896e-4fa5-834d-075d48c1775b)
+
+![footer](https://github.com/naveensony07/CodeAlpha-Landing-Page/assets/116912198/41ac9ced-65f6-46db-9898-e5c6c26f1f58)
 
 
 
